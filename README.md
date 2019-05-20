@@ -24,9 +24,9 @@ https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 ### 二、指南
 
-1、使用nuc8-install-mojave5文件包中的EFI文件进行安装
+1、使用**nuc8-install-mojave5**文件包中的**EFI文件**进行安装
 
-2、安装完成后使用nuc8-after-install-mojave5文件包中的EFI替换硬盘的EFI分区中的文件
+2、安装完成后使用**nuc8-after-install-mojave5**文件包中的**EFI文件**替换硬盘的**EFI分区**中的文件
 
 
 
