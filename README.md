@@ -1,8 +1,6 @@
 # NUC8-MOJAVE
 
-作者：**Genius-lbesT** QQ2489050703
-
-加入QQ群：724096369 **黑苹果Genius**
+作者：**Genius-lbesT** 
 
 #### 关于NUC8:
 
@@ -93,6 +91,6 @@ ALC235使用的是万能声卡
 
 -Genius lbesT-发布
 
-作者：Genius-lbesT QQ2489050703
+作者：Genius-lbesT 
 
 加入QQ群：724096369 黑苹果Genius
