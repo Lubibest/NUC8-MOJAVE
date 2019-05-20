@@ -14,6 +14,8 @@
 
 本文将指导你安装最新版本的MAC OS MOJAVE 10.14.5
 
+EFI支持：10.14-10.14.5
+
 
 
 ### 一、安装教程：
@@ -36,22 +38,22 @@ https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 2、BIOS设置：
 
-Then change:
+- `Boot -> Boot Configuration, disable "**Network Boot**"`
+- `Power -> Secondary Power Settings, "**Wake on LAN from S4/S5**", set to "**Stay Off**"`
+- `Boot -> Secure Boot, disable "**Secure Boot**"`
+- `Devices -> OnBoard Devices, disable "**Bluetooth**" (macOS is not compatible well with Intel Wi-Fi/Bluetooth)`
 
-- Boot -> Boot Configuration, disable "**Network Boot**"
-- Power -> Secondary Power Settings, "**Wake on LAN from S4/S5**", set to "**Stay Off**"
-- Boot -> Secure Boot, disable "**Secure Boot**"
-- Devices -> OnBoard Devices, disable "**Bluetooth**" (macOS is not compatible well with Intel Wi-Fi/Bluetooth)
+建议：
 
-Suggested:
-
-- Boot -> Boot Priority -> Legacy Boot Priority, enable "**Legacy Boot**".
+- `Boot -> Boot Priority -> Legacy Boot Priority, enable "**Legacy Boot**".`
 
 3、EFI中特别添加了：
 
 - RTC补丁-没有这个补丁BIOS.0064无法安装或无法启动
 
 4、已添加隐藏启动项：
+
+显示启动项：四叶草界面按F3显示隐藏
 
 - Recovery
 - Preboot
