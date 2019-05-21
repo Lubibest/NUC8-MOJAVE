@@ -1,6 +1,8 @@
 # NUC8-MOJAVE
 
-作者：**Genius-lbesT** 
+作者：**Genius-lbesT**
+
+**黑苹果Genius**
 
 #### 关于NUC8:
 
@@ -22,13 +24,11 @@ EFI支持：**10.14-10.14.5**
 
 **NUC8i3BEH**-酷睿™i5-8109U
 
-
+[下载本教程附件](https://github.com/Lubibest/NUC8-MOJAVE/archive/master.zip)
 
 ### 一、安装教程：
 
-https://github.com/Lubibest/How-to-install-a-Hackintosh
-
-
+[How-to-install-a-Hackintosh](https://github.com/Lubibest/How-to-install-a-Hackintosh)
 
 ### 二、指南
 
@@ -44,14 +44,14 @@ https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 2、BIOS设置：
 
-- `Boot -> Boot Configuration, disable "**Network Boot**"`
-- `Power -> Secondary Power Settings, "**Wake on LAN from S4/S5**", set to "**Stay Off**"`
-- `Boot -> Secure Boot, disable "**Secure Boot**"`
-- `Devices -> OnBoard Devices, disable "**Bluetooth**" (macOS is not compatible well with Intel Wi-Fi/Bluetooth)`
+- `Boot -> Boot Configuration, disable "Network Boot"`
+- `Power -> Secondary Power Settings, "Wake on LAN from S4/S5", set to "Stay Off"`
+- `Boot -> Secure Boot, disable "Secure Boot"`
+- `Devices -> OnBoard Devices, disable "Bluetooth" (macOS is not compatible well with Intel Wi-Fi/Bluetooth)`
 
 建议：
 
-- `Boot -> Boot Priority -> Legacy Boot Priority, enable "**Legacy Boot**".`
+- `Boot -> Boot Priority -> Legacy Boot Priority, enable "Legacy Boot".`
 
 3、EFI中特别添加了：
 
@@ -87,10 +87,14 @@ ALC235使用的是万能声卡
 
 由
 
--垃圾帮主-修改制作
+**垃圾帮主**修改制作
 
--Genius lbesT-发布
+**Genius lbesT**发布
 
-作者：Genius-lbesT 
+作者：**Genius-lbesT**
 
-加入QQ群：724096369 黑苹果Genius
+qq群：724096369
+
+![](https://github.com/Lubibest/Hackintosh/blob/master/JPG/QQ.png)
+
+ **黑苹果Genius**
