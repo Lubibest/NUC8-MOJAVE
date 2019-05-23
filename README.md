@@ -36,7 +36,7 @@ EFI支持：**10.14-10.14.5**
 
 2、安装完成后使用**nuc8-after-install-mojave5**文件包中的**EFI文件**替换硬盘的**EFI分区**中的文件
 
-
+3、新增一个**nuc8-after-install-mojave5-virtualSMC**版本的EFI，如果使用n**uc8-after-install-mojave5**进入系统报错的，可以尝试使用该EFI进入系统(fix.20190523)
 
 ### 三、说明
 
@@ -83,7 +83,11 @@ ALC235使用的是万能声卡
 
 
 
-### 六、本教程EFI
+### 六、已测试的机器
+
+BIOS：0051已测试10.14.5-fakesmc
+
+### 七、本教程EFI
 
 由
 
@@ -97,4 +101,4 @@ qq群：724096369
 
 ![](https://github.com/Lubibest/Hackintosh/blob/master/JPG/QQ.png)
 
- **黑苹果Genius**   [打赏](https://github.com/Lubibest/About-Genius-lbesT)
+ **黑苹果Genius**   [打赏](
